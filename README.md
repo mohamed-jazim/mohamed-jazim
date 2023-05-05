@@ -21,9 +21,6 @@ Providing services<br><br>-> Mobile app development<br>-> Web development<br><br
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohamed-jazim&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://www.pexels.com/video/planet-earth-in-close-up-view-4478322/" width="512px"/>
-
 ### video
 ![](https://github.com/mohamed-jazim/mohamed-jazim/blob/main/jazim_AdobeExpress.gif)
 
