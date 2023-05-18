@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Providing services<br><br>-> Mobile app development<br>-> Web development<br><br>Contact :<br>Email: ns.jazim@gmail.com
 
 
