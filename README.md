@@ -1,5 +1,5 @@
 # About Me:
-<br>Currently working at MySoftnet:  http://mysoftnet.in/ <br>
+<br>Currently working at I-NET INFOTECH:  http://inetinfotech.in/ <br>
 
 <br>-> Mobile app development<br>-> Web development<br><br>Contact :<br>Email: ns.jazim@gmail.com
 
